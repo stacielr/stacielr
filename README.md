@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stacielr
-- 👀 I’m interested in learning to program
+- 👀 I’m interested in learning to program in python, build on sql skills, and create projects for my portfolio.
 - 🌱 I’m currently learning management information systems in college
 - 💞️ I’m looking to collaborate on developing a portfolio
 - 📫 How to reach me stacie.robbins@outlook.com
